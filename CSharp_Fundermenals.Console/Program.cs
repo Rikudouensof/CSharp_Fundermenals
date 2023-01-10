@@ -9,5 +9,6 @@ ValueDataTypes.Get_Char_DataType();
 ValueDataTypes.Get_Bool_DataTpe();
 RefrenceDataTypes.Get_String_DataType();
 RefrenceDataTypes.Get_Object_DataType();
+PointerDataType.Get_Pointer_DataType();
 
 Console.ReadKey();
