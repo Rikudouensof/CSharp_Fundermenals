@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{04CF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Fundermenals.Basics", "CSharp_Fundermenals.Basics\CSharp_Fundermenals.Basics.csproj", "{060D30BA-3495-4734-BAC1-55057BAB29BF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{060D30BA-3495-4734-BAC1-55057BAB29BF} = {04CF6B88-38CE-45DD-B143-0ED886DA9768}
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {04CF6B88-38CE-45DD-B143-0ED886DA9768}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32C8F231-6565-4D90-B073-8EC0B32D50D4}
